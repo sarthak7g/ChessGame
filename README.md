@@ -20,6 +20,5 @@ The game is played on 5*5 board
 ### Inputs
 - Each player is asked names of their 5 characters
 - After that, each player will play their turn alternatively and the command should be given in the following fashion
-  [character_name]:[move]
-  Example- p1:L
-- A move can be L, R, F, B. All case sensitive
+  [character_name]:[move]. Example- p1:F
+- A move can be L, R, F, B. All case-sensitive
